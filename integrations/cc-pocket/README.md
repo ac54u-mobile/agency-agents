@@ -1,8 +1,8 @@
 # CC Pocket integration
 
-This directory exposes a small, stable, Chinese-localized catalog for
-`ac54u-mobile/cc-pocket`. It is intentionally curated for coding sessions instead of
-shipping the entire Agency roster into a mobile `@` picker.
+This directory exposes a stable, Chinese-localized catalog for
+`ac54u-mobile/cc-pocket`. It scans every translated agent under `zh-CN/` and publishes
+one manifest for the mobile composer’s `@` picker.
 
 - `catalog.zh-CN.json` is the maintained source metadata.
 - `dist/agents.zh-CN.json` is the generated manifest consumed by CC Pocket.

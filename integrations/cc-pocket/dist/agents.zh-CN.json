@@ -1,0 +1,325 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": "2026.07.13.1",
+  "sourceRepository": "ac54u-mobile/agency-agents",
+  "agents": [
+    {
+      "id": "mobile-app-builder",
+      "nameZh": "移动应用工程师",
+      "summaryZh": "负责 iOS、Android 与跨平台移动端实现、性能和原生体验。",
+      "categoryZh": "工程",
+      "source": "engineering/engineering-mobile-app-builder.md",
+      "keywords": [
+        "移动端",
+        "iOS",
+        "Android",
+        "Compose",
+        "SwiftUI"
+      ],
+      "sha256": "1a3e043f806b0b7c071d58b2ee3ab3c58c8342e2727c1ca9e6e5175f86986caf",
+      "rawUrl": "https://raw.githubusercontent.com/ac54u-mobile/agency-agents/main/engineering/engineering-mobile-app-builder.md"
+    },
+    {
+      "id": "mobile-release-engineer",
+      "nameZh": "移动发布工程师",
+      "summaryZh": "负责签名、CI、TestFlight、商店发布、灰度与崩溃排查。",
+      "categoryZh": "工程",
+      "source": "engineering/engineering-mobile-release-engineer.md",
+      "keywords": [
+        "发布",
+        "签名",
+        "CI",
+        "TestFlight",
+        "IPA"
+      ],
+      "sha256": "9ec73eb4effdefa4858b444d29bbd66b57e717c1d4cab39f53adcb21c07ca9a4",
+      "rawUrl": "https://raw.githubusercontent.com/ac54u-mobile/agency-agents/main/engineering/engineering-mobile-release-engineer.md"
+    },
+    {
+      "id": "code-reviewer",
+      "nameZh": "代码审查员",
+      "summaryZh": "审查正确性、安全性、可维护性与回归风险。",
+      "categoryZh": "工程",
+      "source": "engineering/engineering-code-reviewer.md",
+      "keywords": [
+        "Review",
+        "审查",
+        "质量",
+        "重构"
+      ],
+      "sha256": "7509fcc3ea1dda46511b2801996305bf3d4a125576f9655ff0b63df25602f446",
+      "rawUrl": "https://raw.githubusercontent.com/ac54u-mobile/agency-agents/main/engineering/engineering-code-reviewer.md"
+    },
+    {
+      "id": "software-architect",
+      "nameZh": "软件架构师",
+      "summaryZh": "分析系统边界、依赖关系、演进路径和架构取舍。",
+      "categoryZh": "工程",
+      "source": "engineering/engineering-software-architect.md",
+      "keywords": [
+        "架构",
+        "DDD",
+        "模块",
+        "设计"
+      ],
+      "sha256": "b85121691776147bacde26673e68fbbacd6a7f0816d1ca8e203c264d25ce1d30",
+      "rawUrl": "https://raw.githubusercontent.com/ac54u-mobile/agency-agents/main/engineering/engineering-software-architect.md"
+    },
+    {
+      "id": "backend-architect",
+      "nameZh": "后端架构师",
+      "summaryZh": "设计 API、数据模型、服务边界、并发与扩展方案。",
+      "categoryZh": "工程",
+      "source": "engineering/engineering-backend-architect.md",
+      "keywords": [
+        "后端",
+        "API",
+        "数据库",
+        "服务"
+      ],
+      "sha256": "18f237d054fa91f72a5dcda46a52ddcf7354ea3a3e39e0247629f4ea0f446917",
+      "rawUrl": "https://raw.githubusercontent.com/ac54u-mobile/agency-agents/main/engineering/engineering-backend-architect.md"
+    },
+    {
+      "id": "minimal-change-engineer",
+      "nameZh": "最小改动工程师",
+      "summaryZh": "以最小、安全、可验证的代码变更完成明确任务。",
+      "categoryZh": "工程",
+      "source": "engineering/engineering-minimal-change-engineer.md",
+      "keywords": [
+        "最小改动",
+        "修复",
+        "回归",
+        "补丁"
+      ],
+      "sha256": "9999cc74e7b3936af892ef2c2793d105bb92f6c47789aa23db6df92bf68b45e5",
+      "rawUrl": "https://raw.githubusercontent.com/ac54u-mobile/agency-agents/main/engineering/engineering-minimal-change-engineer.md"
+    },
+    {
+      "id": "devops-automator",
+      "nameZh": "DevOps 自动化工程师",
+      "summaryZh": "负责 CI/CD、部署自动化、制品与基础设施流程。",
+      "categoryZh": "运维",
+      "source": "engineering/engineering-devops-automator.md",
+      "keywords": [
+        "DevOps",
+        "CI/CD",
+        "GitHub Actions",
+        "部署"
+      ],
+      "sha256": "5d3c3d12c605a8c07fadfd109697249f98bc8e3d1901247c390641ef9fb013e8",
+      "rawUrl": "https://raw.githubusercontent.com/ac54u-mobile/agency-agents/main/engineering/engineering-devops-automator.md"
+    },
+    {
+      "id": "sre",
+      "nameZh": "站点可靠性工程师",
+      "summaryZh": "负责可用性、监控、容量、故障恢复和运维降噪。",
+      "categoryZh": "运维",
+      "source": "engineering/engineering-sre.md",
+      "keywords": [
+        "SRE",
+        "稳定性",
+        "监控",
+        "故障"
+      ],
+      "sha256": "85b305e495506913f50c7cb28de42444a85fbc4898cd3ad4e1dc9b358b4ab5e8",
+      "rawUrl": "https://raw.githubusercontent.com/ac54u-mobile/agency-agents/main/engineering/engineering-sre.md"
+    },
+    {
+      "id": "prompt-engineer",
+      "nameZh": "提示词工程师",
+      "summaryZh": "设计、评估和优化可靠的模型指令与上下文结构。",
+      "categoryZh": "AI",
+      "source": "engineering/engineering-prompt-engineer.md",
+      "keywords": [
+        "提示词",
+        "Prompt",
+        "评估",
+        "上下文"
+      ],
+      "sha256": "625b066e01fca23222b71331833f7851941a6ba800857481ead4ea2420d40081",
+      "rawUrl": "https://raw.githubusercontent.com/ac54u-mobile/agency-agents/main/engineering/engineering-prompt-engineer.md"
+    },
+    {
+      "id": "multi-agent-systems-architect",
+      "nameZh": "多 Agent 系统架构师",
+      "summaryZh": "设计多 Agent 协作、路由、权限、状态和失败恢复。",
+      "categoryZh": "AI",
+      "source": "engineering/engineering-multi-agent-systems-architect.md",
+      "keywords": [
+        "多Agent",
+        "编排",
+        "路由",
+        "协作"
+      ],
+      "sha256": "d93dd20fef67bf85a537ba0f869fad1a17d0e589f20899d1bbe1f095a7bcb91b",
+      "rawUrl": "https://raw.githubusercontent.com/ac54u-mobile/agency-agents/main/engineering/engineering-multi-agent-systems-architect.md"
+    },
+    {
+      "id": "agents-orchestrator",
+      "nameZh": "Agent 编排负责人",
+      "summaryZh": "拆分任务、选择专家、协调交付物并整合最终结果。",
+      "categoryZh": "AI",
+      "source": "specialized/agents-orchestrator.md",
+      "keywords": [
+        "编排",
+        "委派",
+        "协作",
+        "团队"
+      ],
+      "sha256": "3f900ee286eba5a809388ecc22ad860c4a3ef9ed7ff25488e80eac18f3a0f317",
+      "rawUrl": "https://raw.githubusercontent.com/ac54u-mobile/agency-agents/main/specialized/agents-orchestrator.md"
+    },
+    {
+      "id": "ui-designer",
+      "nameZh": "UI 设计师",
+      "summaryZh": "负责视觉层级、组件规范、色彩、排版和界面一致性。",
+      "categoryZh": "设计",
+      "source": "design/design-ui-designer.md",
+      "keywords": [
+        "UI",
+        "视觉",
+        "组件",
+        "设计系统"
+      ],
+      "sha256": "3130768958d3b3d38178aaec91cf789e01ecca4984c8674d4aaea446b6cba240",
+      "rawUrl": "https://raw.githubusercontent.com/ac54u-mobile/agency-agents/main/design/design-ui-designer.md"
+    },
+    {
+      "id": "ux-architect",
+      "nameZh": "UX 架构师",
+      "summaryZh": "负责信息架构、交互流程、可用性和实现约束。",
+      "categoryZh": "设计",
+      "source": "design/design-ux-architect.md",
+      "keywords": [
+        "UX",
+        "交互",
+        "信息架构",
+        "可用性"
+      ],
+      "sha256": "151f7386682b77a6c1455374d427237a3d46eadfa1248964466b0412848f7117",
+      "rawUrl": "https://raw.githubusercontent.com/ac54u-mobile/agency-agents/main/design/design-ux-architect.md"
+    },
+    {
+      "id": "appsec-engineer",
+      "nameZh": "应用安全工程师",
+      "summaryZh": "检查认证、授权、输入处理、依赖和敏感数据风险。",
+      "categoryZh": "安全",
+      "source": "security/security-appsec-engineer.md",
+      "keywords": [
+        "安全",
+        "AppSec",
+        "漏洞",
+        "权限"
+      ],
+      "sha256": "f3ee22350c9e0e7289d2d4747e7c1a8fe196d70340feec7b176b13bacc3deb77",
+      "rawUrl": "https://raw.githubusercontent.com/ac54u-mobile/agency-agents/main/security/security-appsec-engineer.md"
+    },
+    {
+      "id": "incident-responder",
+      "nameZh": "安全事件响应工程师",
+      "summaryZh": "调查安全事件、控制影响、恢复服务并完成复盘。",
+      "categoryZh": "安全",
+      "source": "security/security-incident-responder.md",
+      "keywords": [
+        "响应",
+        "取证",
+        "安全事件",
+        "复盘"
+      ],
+      "sha256": "a648cf5a0b40d8726ccb61ea48f1dee2797691f1b52395c59af91c7a5f511278",
+      "rawUrl": "https://raw.githubusercontent.com/ac54u-mobile/agency-agents/main/security/security-incident-responder.md"
+    },
+    {
+      "id": "api-tester",
+      "nameZh": "API 测试工程师",
+      "summaryZh": "验证接口契约、边界、错误处理、鉴权和兼容性。",
+      "categoryZh": "测试",
+      "source": "testing/testing-api-tester.md",
+      "keywords": [
+        "API测试",
+        "契约",
+        "鉴权",
+        "边界"
+      ],
+      "sha256": "c89d7ae592523f4799426a8b09700ec4b9d99bf2fcae2d1b0dd2900d5f770127",
+      "rawUrl": "https://raw.githubusercontent.com/ac54u-mobile/agency-agents/main/testing/testing-api-tester.md"
+    },
+    {
+      "id": "performance-benchmarker",
+      "nameZh": "性能测试工程师",
+      "summaryZh": "建立基准、定位瓶颈并验证延迟、吞吐与资源变化。",
+      "categoryZh": "测试",
+      "source": "testing/testing-performance-benchmarker.md",
+      "keywords": [
+        "性能",
+        "基准",
+        "延迟",
+        "吞吐"
+      ],
+      "sha256": "24dbd3a55cf6ca36c5f8af4081e87859914131199d87b6f90d129643fcfba43e",
+      "rawUrl": "https://raw.githubusercontent.com/ac54u-mobile/agency-agents/main/testing/testing-performance-benchmarker.md"
+    },
+    {
+      "id": "evidence-collector",
+      "nameZh": "验证证据工程师",
+      "summaryZh": "收集可复现证据、日志、测试结果和完成条件。",
+      "categoryZh": "测试",
+      "source": "testing/testing-evidence-collector.md",
+      "keywords": [
+        "验证",
+        "证据",
+        "日志",
+        "复现"
+      ],
+      "sha256": "d7e95b64033230aa07c386546d24fca68e4f606c47be1a7698cafc09d4ef5b12",
+      "rawUrl": "https://raw.githubusercontent.com/ac54u-mobile/agency-agents/main/testing/testing-evidence-collector.md"
+    },
+    {
+      "id": "test-automation-engineer",
+      "nameZh": "自动化测试工程师",
+      "summaryZh": "设计稳定的单元、集成、端到端测试与 CI 质量门。",
+      "categoryZh": "测试",
+      "source": "testing/testing-test-automation-engineer.md",
+      "keywords": [
+        "自动化测试",
+        "单元测试",
+        "E2E",
+        "CI"
+      ],
+      "sha256": "479ba12efa5c19e87b60e3b154170c124ac38c46b95c342f0e3b62537113c0a7",
+      "rawUrl": "https://raw.githubusercontent.com/ac54u-mobile/agency-agents/main/testing/testing-test-automation-engineer.md"
+    },
+    {
+      "id": "product-manager",
+      "nameZh": "产品经理",
+      "summaryZh": "澄清需求、确定优先级、定义验收标准并管理范围。",
+      "categoryZh": "产品",
+      "source": "product/product-manager.md",
+      "keywords": [
+        "产品",
+        "需求",
+        "优先级",
+        "验收"
+      ],
+      "sha256": "4a3fe4661e72e5173877bcba7c362392181774b20efc27ac1789171e98676c9d",
+      "rawUrl": "https://raw.githubusercontent.com/ac54u-mobile/agency-agents/main/product/product-manager.md"
+    },
+    {
+      "id": "project-shepherd",
+      "nameZh": "项目推进负责人",
+      "summaryZh": "协调跨职能任务、风险、依赖、时间线与交付。",
+      "categoryZh": "项目管理",
+      "source": "project-management/project-management-project-shepherd.md",
+      "keywords": [
+        "项目管理",
+        "推进",
+        "依赖",
+        "交付"
+      ],
+      "sha256": "0feb647366d78b61c1633b12e370ffb1dea52facb9d750ef6c952de1e996031c",
+      "rawUrl": "https://raw.githubusercontent.com/ac54u-mobile/agency-agents/main/project-management/project-management-project-shepherd.md"
+    }
+  ],
+  "agentCount": 21
+}
